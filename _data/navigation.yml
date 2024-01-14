@@ -11,15 +11,12 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   
-docs:
-  - title: Database
+sidebar-category:
+  - title: "카테고리"
     children:
-      - title: "Oracle"
-        url: oracle/
-        category: "oracle"
-      - title: "MS-SQL"
-        url: mssql/
-        category: "mssql"
-      - title: "MariaDB"
-        url: mariadb/
-        category: "mariadb"
+      - title: "블로그"
+        url: "/blog"
+      - title: "카테고리B"
+        url:  "/CategoryB"
+      - title: "카테고리C"
+        url:  "/CategoryC"
